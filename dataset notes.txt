@@ -1,0 +1,51 @@
+NOTE:
+audio 18,22 itu fisik apa seksual? Aku taruh di seksual dulu
+audio 23 itu tangan korban sakit karena kakaknya, fisik, domestik apa seksual? Aku masukin domestik dulu tapi mostly domestik itu ada kata ganti orangtua (pa, ma)
+audio 26,27 itu kata2nya "mbak tolong jangan apa apain" tapi suara korban perempuan, sempat mikir seksual tapi aku masukin domestik
+audio 28 kasusknya korban perempuan melihat kasus kekerasan, dicatat ada perbedaan dengan sampel suara kekerasan lain
+audio 31 korban perempuan dipaksa oleh abangnya, masuk ke seksual
+audio 32 korban perempuan menolak perlakuan abangnya, terdengar suara pukulan, masuk kategori domestik apa fisik? aku masukin domestik karena dataset agak kurang untuk sekarang
+audio 34 itu korban perempuan "aduh om jangan deket deket saya" itu stalking apa sexual?? stalking aja deh karena saat ini masih kurang datasetnya, tapi karena korban perempuan jadi agak bias niat om nya itu apa?
+audio 35 korban perempuan kesakitan karena perilaku om nya, maaf bias wkkw om om biasanya niatnya ke seksual, saya bawa ke fisik dulu soalnya datasetnya lebih sedikit dari seksual
+audio 36 korban perempuan gak bisa gerak, mungkin seksual
+audio 37 seperti audio 28, masuk ke kekerasan fisik
+audio 38 itu korban perempuan menolak paksaan kakaknya, sekarang aku masukkan ke domestik, tapi bingung apa seksual ya?
+audio 40 korban perempuan takut atas perlakuan orang asing laki laki, karena konteks perbedaan gender di masukkan ke seksual
+audio 44 korban perempuan merasa sakit atas perbuatan "abangnya" namun tone suara rendah, aku tafsir situasi sedang di kendaraan umum yang sesak (tidak bisa teriak) jadi masuk ke seksual
+audio 45 low tone tapi kekerasan fisik
+audio 47 korban perempuan low tone dapat seperti "ancaman" dari "mas mas", bias mungkin karena low tone aku masukin seksual
+audio 49 korban perempuan low tone bilang "aduh bang jangan", karena low tone aku masukin seksual
+audio 56 korban perempuan minta ampun ke pelaku, sepertinya disakiti fisik, cuman low tone, bingung, ya jadi aku masukin fisik soalnya datasetnya dibanding seksual lebih sedikit
+audio 58 korban perempuan minta ampun ke pelaku karena udah merasa cukup kesakitan sama perbuatan pelaku, sekali lagi low tone jadi vibe nya ke seksual, cuman ragu
+audio 61 korban perempuan bilang "cukup mas cukup aku gak tahan/kuat lagi" wuhhhh vibe nyaaa wkkwkwkw ahayyy aku masukin seksual ya, cuman ragu
+audio 63 itu korban perempuan mengeluh sakit atas perbuatan kakaknya, karena low tone dan kurang dataset di domestic, aku masukin ke domestic
+audio 66 67 sama seperti audio 26 27
+audio 68 sama seperti audio 28
+audio 70 korban perempuan mengeluh "udah mas aku gak mau lagi" dan low tone, masuk ke seksual
+audio 71 sama seperti audio 38
+audio 72 low tone, terkesan seksual dari kata "udah bang aku gak mau lagi"
+audio 75 korban perempuan low tone bilang "sakit sakit om lepasin om", itu fisik apa seksual apa domestik? aku masukin fisik soalnya kurang data
+audio 76 korban perempuan gak bisa gerak tapi cukup tegas, audio dengan transkrip sama di volunteer sebelumnya aku masukin seksual, tapi disini gaada vibe seksualnya, jadi aku masukin fisik
+audio 78 adiknya dipaksa sama kakaknya, aku masukin domestik, kurang data juga soalnya
+audio 80 korban perempuan low tone bilang "pak jangan pak saya takut pak" itu membuka sekali kemungkinan abuse yang lain, jadi semetara ini aku duplikat datanya, aku masukin ke seksual dan domestik
+audio 83 korban perempuan diliatin terus, aku bawa ke stalking dan sexual, 
+audio 84,85 bilang aw sakit bang, aku masukin domestik dan fisik
+audio 87,89 korban bilang mas jangan apa apain saya, dimasukin ke seksual dan fisik
+audio 92 jelas kekerasan fisik, cuman dari vibe korban bicara terdengar seperti seksual, sekarang aku masukin fisik karena di fisik jumlahnya masih kurang
+audio 95 korban bilang jangan di apa apain, masuk fisik apa seksual ya? untuk sekarang masuk seksual karena ada kata "jangan di apa apa in"
+audio 96 korban kesakitan tapi berjeda, masuk seksual dan fisik
+audio 97 korban di stalk oleh beberapa pelaku, dari vibe ada kemungkinan seksual juga (monmaap gangbang :v), jadi aku masukin ke keduanya
+audio 98, 102 korban kesakitan tapi vibe nya seksual, masuk ke mana ya? keduanya deh ya 
+audio 103 korban mengeluh kesakitan tangannya karena perlakuan kakaknya, masuk ke domestic, tapi ragu apa masuk sexual juga ya? untuk sekarang cuma masuk domestic
+audio 106,107 korban takut di apa apain sama mbaknya, masuk domestic dulu, tapi ada vibe seksualnya
+audio 110 vibe nya seksual tapi kayak hubungan kakak adik yang ngarah ke domestic :( aku masukin ke keduanya
+audio 111 korban menolak paksaaan kakaknya, ada vibe seksual, tapi dari nada bicara untuk sekarang aku masukin domestic
+audio 112 hampir sama vibe nya sama kedua audio terakhir (seksual domestic) tapi yang ini ada kata "aku gak mau lagi" jadi lebih seksual, tapi konotasinya bisa macem macem, oke di taruh di keduanya
+audio 114 sepertinya gabungan stalking (lebih keras stalking nya) dan seksual, karena korban terdengar menolak habis seperti telah diperlakukan tidak pantas, masuk ke stalking dan sexual
+audio 115 korban bilang "sakit om lepasin om", aku taruh di seksual dan fisik
+audio 116 konklusinya sama seperti 115, namun kali ini korban bilang dia gak bisa gerak, kemungkinan besar akan terjadi kekerasan seksual
+audio 118 agak special, karena kesan yang di timbulkan sebenarnya seksual, tapi ada kemungkinan domestik dan data domestik kurang, jadi di taruh di domestik
+audio 120 korban mengeluh ketakutan kepada seorang "pak" bisa jadi bapak (domestic) atau om om ga jelas (sexual), aku masukin ke keduanya
+
+
+
