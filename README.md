@@ -2,7 +2,7 @@
 ##### Created for Bangkit Programme Capstone Project Zupa Team_B21-CAP0175
 
 ## Dataset 
-This dataset consist of recording of volunteers given 40 situations. Those situations simulate violence and we record their response. We categorised violence into four types, domestic, physical, sexual, and stalking violence. Each category has its own folder. In total we have more than 120 unique audio data (means 30 in average for each situation). We acknowledge that a situation could have more than one violence, in that case we duplicate the audio and put them into correct folders respectively. For example `audio a` has domestic and sexual violence in it, so we put `audio a` in folder `/domestic` and `/sexual` .
+This dataset consist of 3 to 5 seconds audio recording of volunteers given 40 situations. Those situations simulate violence and we record their response. We categorised violence into four types, domestic, physical, sexual, and stalking violence. Each category has its own folder. In total we have more than 120 unique audio data (means 30 in average for each situation). We acknowledge that a situation could have more than one violence, in that case we duplicate the audio and put them into correct folders respectively. For example `audio a` has domestic and sexual violence in it, so we put `audio a` in folder `/domestic` and `/sexual` .
 
 We interpret the violence by listening the recording serveral times and not seeing the script. Notes by interpreter available in `dataset notes.txt`. Notes written in slang Indonesian.
 
